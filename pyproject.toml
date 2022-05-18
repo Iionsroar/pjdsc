@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pjdsc"
+version = "0.1.0"
+description = "Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competition, and Data Science studies"
+authors = ["Iionsroar <yawned.eyes@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
