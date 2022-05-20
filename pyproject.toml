@@ -9,6 +9,7 @@ python = "^3.8"
 pandas = "^1.4.2"
 pandas-profiling = {extras = ["notebook"], version = "^3.2.0"}
 jupyterlab = "^3.4.2"
+pyreadstat = "^1.1.6"
 
 [tool.poetry.dev-dependencies]
 
