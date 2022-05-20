@@ -6,7 +6,7 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
 ## Requirements
 
 - [Poetry](https://python-poetry.org/docs/#installation)
-- [Dataset](https://tinyurl.com/pjdsc2022dataset) 
+- Dataset
   - `dataset/Elections Dataset/pres_precinct_data_2022.csv`
   - `dataset/Movie Dataset/movies_metadata.csv`
 
