@@ -9,6 +9,7 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
 - Dataset
   - `dataset/Elections Dataset/pres_precinct_data_2022.csv`
     - possible sources: [pres](https://figshare.com/articles/dataset/2022_Presidential_Elections_Data/19755469) & [vp](https://figshare.com/articles/dataset/2016_Philippine_vice-presidential_elections_precinct-level_data/3380116/1)
+    - validate geographical political units [article](https://psa.gov.ph/classification/psgc/?q=psgc/luzon) [infographic](https://psa.gov.ph/classification/psgc/downloads/Q42021%20PSGC%20Infographics.PNG) 
   - poverty rates
     - [2021 dataset](https://data.humdata.org/dataset/philippines-poverty-statistics) from [psa article](https://psa.gov.ph/poverty-press-releases/nid/165535)
 
@@ -35,6 +36,7 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
   - Descriptive statistics to help make conclusions regarding the given data.
     - Measures of central tendency
     - Measures of variability
+- Not about complexity but the actionability of the results
 
 
 
@@ -57,12 +59,17 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
   - **TODO** watch presentations and see repo of top 3 teams
 
 
-- Stats
+- stats
   - **TODO**  [Philippine Statistics Authority > Databases > OpenSTAT](https://openstat.psa.gov.ph/)
   - [philippines-voters-choice-for-president-by-location](https://www.statista.com/statistics/1307769/philippines-voters-choice-for-president-by-location/)
   - [philippines-voters-choice-for-president](https://www.statista.com/statistics/1307754/philippines-voters-choice-for-president/)
 
+- master studies
 
+
+  - [kaggle rankings](https://www.kaggle.com/rankings?group=notebooks&page=1&pageSize=20)
+
+  
 
 ## Tools
 
@@ -87,6 +94,10 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
   - [~~Kaggle search~~](https://www.kaggle.com/search?q=philippine+election), [~~Google dataset search~~](https://datasetsearch.research.google.com/search?src=0&query=philippine%20election&docid=L2cvMTFyczJubHk0NA%3D%3D)
   - Presidential candidates throughout the history of Philippine elections [kaggle dataset](https://www.kaggle.com/datasets/abeperez/ph-presidential-elections) 
     - cited on: [google scholar: celebrity politics](https://scholar.google.com/scholar?q=%22philippine%20presidential%20elections%22) 
+- `pandas data cleaning` examples
+- text analysis
+  - tweet on elections, topic modelling
+  - similar to google trend search
 - internet access + location
 - campaign target
 - social media use ? [paper](https://medienorge.uib.no/files/Eksterne_pub/Pew-Research-Center_Global-Tech-Social-Media-Use_2018.06.19.pdf)
@@ -96,6 +107,5 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
 - poverty rates
   - google dataset search
     - [Philippines: Poverty statistics](https://data.humdata.org/dataset/philippines-poverty-statistics#)
-
 - digital disinformation ? [paper](https://www.academia.edu/40190235/Tracking_Digital_Disinformation_in_the_2019_Philippine_Midterm_Election?from=cover_page)
 - election analysis on other countries
