@@ -45,22 +45,18 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
 - books
   - [python-data-science-handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   - [Think Stats 2e](https://greenteapress.com/wp/think-stats-2e/)
-
 - web
   - [awesome-data-science](https://github.com/academic/awesome-datascience)
     - pandas [official-tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html)  [continue](https://pandas.pydata.org/docs/getting_started/intro_tutorials/07_reshape_table_layout.html)
 
   - [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science)
-
 - PJDSC 2021
-
+  - [Data Presentation](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2808769679439848)
   - [COVID vs vaccines](https://github.com/bullybutcher/PJDSC/blob/main/pjdscFINAL.pdf)
   - [COVID n twitter](https://github.com/tkmanabat/Philippine-Junior-Data-Science-Challenge)
-  - **TODO** watch presentations and see repo of top 3 teams
-
 
 - stats
-  - **TODO**  [Philippine Statistics Authority > Databases > OpenSTAT](https://openstat.psa.gov.ph/)
+  - [Philippine Statistics Authority > Databases > OpenSTAT](https://openstat.psa.gov.ph/)
   - [philippines-voters-choice-for-president-by-location](https://www.statista.com/statistics/1307769/philippines-voters-choice-for-president-by-location/)
   - [philippines-voters-choice-for-president](https://www.statista.com/statistics/1307754/philippines-voters-choice-for-president/)
 
@@ -84,9 +80,12 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
 ## Explore
 
 - `Exploratory data analysis` projects
-  - [kaggle search](https://www.kaggle.com/search?q=exploratory+data+analysis)
-    - **TODO** [python eda - getting started](https://www.kaggle.com/getting-started/173448)
-    - [kashnitsky topic-1 eda](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+  - [kaggle search continue @ page 2](https://www.kaggle.com/search?q=exploratory+data+analysis)
+    - [London Crime EDA](https://www.kaggle.com/code/sw52099/london-crime-data-eda#conclusions)
+    - [EDA with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+    - [Comprehensive EDA with Python](https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook)
+    - [Exploring Survival on the Titanic](https://www.kaggle.com/code/mrisdal/exploring-survival-on-the-titanic/report)
+    - [~~python eda - getting started~~](https://www.kaggle.com/getting-started/173448)
   - [github search](https://github.com/search?q=exploratory+data+analysis)
   - reddit search **TODO [4](https://www.reddit.com/r/learnmachinelearning/comments/rv50th/exploratory_data_analysis/) ** [2](https://www.reddit.com/r/statistics/comments/m7110t/d_exploratory_data_analytics/) [3](https://www.reddit.com/r/datascience/comments/71g4zg/exploratory_data_analysis_book_recommendations/) 
 - `Philippine election` datasets & projects 
@@ -109,3 +108,28 @@ Philippine Junior Data Science Challenge 2022, Exploratory Data Analysis Competi
     - [Philippines: Poverty statistics](https://data.humdata.org/dataset/philippines-poverty-statistics#)
 - digital disinformation ? [paper](https://www.academia.edu/40190235/Tracking_Digital_Disinformation_in_the_2019_Philippine_Midterm_Election?from=cover_page)
 - election analysis on other countries
+- [cambridge analytica repo](https://github.com/gianmarcoricciarelli/the_facebook_scandal)
+
+
+
+### Understand the Data
+
+|      Variable      |    Type     | Expectation | Conclusion | Comments |
+| :----------------: | :---------: | :---------: | :--------: | :------: |
+| Precinct ID (2016) | categorical |             |            |          |
+| Precinct ID (2022) | categorical |             |            |          |
+|   Region (2016)    | categorical |             |            |          |
+|   Region (2022)    | categorical |             |            |          |
+|  Province (2016)   | categorical |             |            |          |
+|  Province (2022)   | categorical |             |            |          |
+|    City (2016)     | categorical |             |            |          |
+|    City (2022)     | categorical |             |            |          |
+|  Barangay (2016)   | categorical |             |            |          |
+|  Barangay (2022)   | categorical |             |            |          |
+|   Marcos (2016)    |  numerical  |             |            |          |
+|   Marcos (2022)    |  numerical  |             |            |          |
+|   Robredo (2016)   |  numerical  |             |            |          |
+|   Robredo (2022)   |  numerical  |             |            |          |
+
+
+

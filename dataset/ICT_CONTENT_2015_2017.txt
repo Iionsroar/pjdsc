@@ -1,0 +1,58 @@
+Summary of Core ICT Indicators for Establishments Under Information Economy: Philippines by Geolocation, Industry Description, Data Items and Year
+
+Downloaded from: https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3F/0013F4BSIC1.px/?rxid=bdf9d8da-96f1-4100-ae09-18cb3eaeb313
+
+"Values in percent except number of establishments and employment.
+Employment is as of 15 November of the reference year.
+Details may not add up due to rounding and/or statistical disclosure control."
+s - suppressed
+Geolocation:
+..Negros Island Region:
+no NIR data other than 2015 because it was either not created (before 2015) or abolished (after 2015)
+
+Data Items:
+Establishments with computers and communication equipment:
+for 2015 and earlier, this item refers to establishments with computer and other hardware
+
+Data Items:
+Establishments with e-commerce via network channels other than the internet:
+for 2015 and earlier, this item refers to establishments with e-commerce via computer networks other than internet
+
+Data Items:
+Establishments with business transaction via cellular mobile phone/ smartphone:
+for 2015 and earlier, this item refers to establishments with business transaction via cellular mobile phones
+
+
+Latest update:
+20201001 09:00
+
+Source:
+Philippine Statistics Authority
+
+Contact:
+Carole A. Blanco
+Services Statistics Division
+Philippine Statistics Authority
+16th Floor, North Tower, Eton Centris Cyberpod Three
+EDSA corner Quezon Avenue, Quezon City, 1011
+Tel:(+632)83762090
+c.blanco@psa.gov.ph
+ssd.esss.staff@psa.gov.ph
+
+Copyright
+
+Units:
+Percent
+
+
+Reference period:
+2010, 2013, 2015, 2017
+
+
+
+
+
+
+
+Internal reference code:
+3F4BSIC0

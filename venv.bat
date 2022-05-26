@@ -1,1 +1,1 @@
-poetry shell
+poetry run jupyter lab
