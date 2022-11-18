@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # this project
-Elections Dataset/
 eda_references
